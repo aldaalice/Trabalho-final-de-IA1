@@ -7,7 +7,7 @@
   Após a implementação e análise dos resultados passamos para a implemntação do modelo KNN, este modelo por sua vez possui uma um funcionamento mais complexo que o de Árvore de Decisões, uma vez que o mesmo faz uso da similaridade recurso e isso em alguns casos, onde os dados pussuem valores muito próximos uns dos outros pode causar problemas para que o modelo consiga fazer a separação dos diferentes tipos de dados.
   E por último fizemos o uso do SVM que é muito utilizado para para fazer clacificações, esse método apesar de mais complexo é considerado um método muito robusto e versátil, uma vez que ele pode ser utizado com uma quantidade um pouco menor de dados, até uma quantidade muito grande de dados.
   
-  ## Ambiente de desenvolvimento:
+ ## Ambiente de desenvolvimento:
    Para treinar e implementar os modelos nós escolhemos fazer uso da plataforma Coloaboratory (https://colab.research.google.com/?utm_source=scs-index), isso porque achamos mais interessante desenvolver o trabalho de equipe nela. 
    
    ## Bibliotecas instaladas:
@@ -15,9 +15,9 @@
    Já as bibliotecas utizadas foram: pandas, numpy, matplotlib, seaborn e sklearn.
    Por fim, para facilitar a execução dos modelos geramos um arquivo 'txt' com o comando (!pip freeze > requirements.txt) no Colaboratory, dessa forma foi gerado um arquivo que contém todas as bibliotecas utiladas, bem como susas respectivas verções.
     
-    ## Dataset utilizado:
+   ## Dataset utilizado:
    [Iris.csv](https://github.com/Srryan93/Trabalho-final-de-IA1/files/9114570/Iris.csv)
     
-    ## Requerimentos para executar os modelos:
+   ## Requerimentos para executar os modelos:
    [requirements.txt](https://github.com/Srryan93/Trabalho-final-de-IA1/files/9114580/requirements.txt)
 
