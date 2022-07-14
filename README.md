@@ -14,10 +14,3 @@
    Para instalar as bibliotecas necessárias fizemos o uso do instalador (!pip install 'nome da biblioteca desejada'). 
    Já as bibliotecas utizadas foram: pandas, numpy, matplotlib, seaborn e sklearn.
    Por fim, para facilitar a execução dos modelos geramos um arquivo 'txt' com o comando (!pip freeze > requirements.txt) no Colaboratory, dessa forma foi gerado um arquivo que contém todas as bibliotecas utiladas, bem como susas respectivas verções.
-    
-   ## Dataset utilizado:
-   [Iris.csv](https://github.com/Srryan93/Trabalho-final-de-IA1/files/9114570/Iris.csv)
-    
-   ## Requerimentos para executar os modelos:
-   [requirements.txt](https://github.com/Srryan93/Trabalho-final-de-IA1/files/9114580/requirements.txt)
-
