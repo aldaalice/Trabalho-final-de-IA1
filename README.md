@@ -3,7 +3,7 @@
 ## Descrição:
   O presente trabalho visa demonstrar a implementação de três diferentes  métodos de machine learning para o reconhecimento e separação de três  diferentes tipos de  plantas, usando-se para isso as informações sobre o comprimento e a largura das sépalas de cada espécie, bem como os dados sobre a largura e o comprimento de das pétalas delas. 
   Como fonte de dados nós utilzamos o dataset Iris, sendo este muito conhecido e utilizado pela comunidade acadêmica para o estudo de diferentes tecnicas de análise de dados e de machine learning.
-  Para o primeiro modelo nós utilizamos o método Árvore de Decisões. Optamos por começar por este modelo, pois durante os estudos e pesquisas vimos que ele é um modelo relativamente simples, de fácil entendimento e robusto. 
+  Para o primeiro modelo nós utilizamos o método Árvore de Decisões. Optamos por começar por este modelo, pois durante os estudos e pesquisas vimos que ele é um modelo relativamente simples, de fácil entendimento e robusto.
   Após a implementação e análise dos resultados passamos para a implemntação do modelo KNN, este modelo por sua vez possui uma um funcionamento mais complexo que o de Árvore de Decisões, uma vez que o mesmo faz uso da similaridade recurso e isso em alguns casos, onde os dados pussuem valores muito próximos uns dos outros pode causar problemas para que o modelo consiga fazer a separação dos diferentes tipos de dados.
   E por último fizemos o uso do SVM que é muito utilizado para para fazer clacificações, esse método apesar de mais complexo é considerado um método muito robusto e versátil, uma vez que ele pode ser utizado com uma quantidade um pouco menor de dados, até uma quantidade muito grande de dados.
   
